@@ -1,4 +1,7 @@
 Demo Git and GitHub
 Java Hello Program "Hello World"
-public class{
+public Test{
+Test(){
+}
+int x=0;
 }
