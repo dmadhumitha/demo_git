@@ -1,7 +1,8 @@
 Demo Git and GitHub
 Java Hello Program "Hello World"
-public class Test{
-//write code here
-public static void main(String args[]){
+public Test{
+Test(){
 }
+int x=0;
+project1
 }
