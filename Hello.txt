@@ -4,5 +4,6 @@ public Test{
 Test(){
 }
 int x=0;
+x++;
 project1
 }
